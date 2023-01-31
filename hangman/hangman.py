@@ -29,6 +29,6 @@ def hangman():
         print('Invalid character. Please try again.')
 
 def main():
-    hangman()
+    test()
 
 main()
